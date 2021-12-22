@@ -1,0 +1,17 @@
+@import url('./variables.css');
+
+.name {
+    color: var(--primary);
+}
+
+.title {
+    color: var(--secondary);
+}
+
+.allNames {
+    background-color: var(--secondary);
+}
+
+.error { 
+    color: var(--error);
+}
